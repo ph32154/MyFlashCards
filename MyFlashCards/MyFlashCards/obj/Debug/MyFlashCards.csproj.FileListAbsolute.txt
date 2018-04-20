@@ -1,0 +1,9 @@
+C:\CodePractise\MyFlashCards\MyFlashCards\bin\Debug\MyFlashCards.exe.config
+C:\CodePractise\MyFlashCards\MyFlashCards\bin\Debug\MyFlashCards.exe
+C:\CodePractise\MyFlashCards\MyFlashCards\bin\Debug\MyFlashCards.pdb
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.csprojResolveAssemblyReference.cache
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.Form1.resources
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.Properties.Resources.resources
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.csproj.GenerateResource.Cache
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.exe
+C:\CodePractise\MyFlashCards\MyFlashCards\obj\Debug\MyFlashCards.pdb
